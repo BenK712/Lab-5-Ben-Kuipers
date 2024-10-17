@@ -1,4 +1,92 @@
+/*Q1*/
 .box{
     height: 200px;
     width: 300px;
+    background-color: brown;
+}
+/*Q2*/
+.responsive-box{
+    height: 50vh;
+    width: 50vw;
+    background-color: blue;
+}
+/*Q3*/
+.padded-text{
+    padding: 20px;
+}
+/*Q4*/
+.custom-padding{
+    padding: 10px 20px;
+    background-color: aqua;
+}
+/*Q5*/
+.border-box{
+    border: solid black 2px;
+    height: 100px;
+    width: 100px;
+}
+/*Q6*/
+.rounded-border{
+    border: dotted red 3px;
+    border-radius: 15px;
+    height: 100px;
+    width: 100px;
+}
+/*Q7*/
+.margin-text{
+    margin: 30px;
+}
+/*Q8*/
+.custom-margin{
+    margin: 20px 40px;
+}
+/*Q9*/
+.inline-element{
+    background-color: rgb(143, 199, 203);
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+}
+/*Q10*/
+.block-element{
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    background-color: rgb(34, 152, 160);
+}
+/*Q11*/
+.inline-block-element{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(40, 53, 54);
+}
+/*Q12*/
+.hidden-element{
+    display: none;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+/*Q13*/
+.visible-element{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(171, 43, 171);
+    visibility: visible;
+}
+/*Q14*/
+.invisible-element{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(227, 174, 227);
+    visibility: hidden;
+}
+/*Q15*/
+.transparent-box{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    opacity: 0.5;
 }
